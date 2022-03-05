@@ -8,7 +8,7 @@ I joined a coding bootcamp and I spent 4 months learning web development in HTML
 
 Now I strive to develop fun, creative and useful websites and web applications. Feel free to check out my github and let me know if you have any questions.
 
-![anime-keyboard](https://user-images.githubusercontent.com/93508000/156872560-41c9a8cd-9d0c-415b-beca-c3d3bcd0e8bb.gif)
+![anime-keyboard](https://user-images.githubusercontent.com/93508000/156873273-fa7a7397-147c-438f-8df1-e0301678efc5.gif)
 
 👫🏻 I’m always looking to collaborate on projects. I currently have been creating projects in Java and React.
 
