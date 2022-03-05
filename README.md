@@ -9,6 +9,9 @@ I joined a coding bootcamp and I spent 4 months learning web development in HTML
 Now I strive to develop fun, creative and useful websites and web applications. Feel free to check out my github and let me know if you have any questions.
 
 
+![peachcry-peachmad](https://user-images.githubusercontent.com/93508000/156873502-007469b2-fa0c-4956-97bd-4692713e21fb.gif)
+
+
 
 👫🏻 I’m always looking to collaborate on projects. I currently have been creating projects in Java and React.
 
