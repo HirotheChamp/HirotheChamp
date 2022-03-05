@@ -50,3 +50,8 @@ Now I strive to develop fun, creative and useful websites and web applications. 
 - ⚡ Fun fact: I can use my left and right hand in various scenarios.
 
 
+
+[![linkedin](./img/linkedin-light.svg)](https://www.linkedin.com/in/kyle-young-173024106/#gh-light-mode-only)
+[![website](./img/linkedin-dark.svg)](https://linkedin.com/in/codeSTACKr#gh-dark-mode-only)
+
+[linkedin]: https://www.linkedin.com/in/kyle-young-173024106/
