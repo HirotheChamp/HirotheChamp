@@ -1,5 +1,5 @@
-#About Me
-
+**About Me
+<hr>
 </hr>
 
 👋 Hi, My name is Kyle Hiroshi Young. I was born in Los Gatos, California and I'm currently living in Campbell, California.
