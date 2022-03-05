@@ -42,9 +42,9 @@ Languages and Tools:
 </br>
 What I am currently working on:
 
--🌱 I’m currently learning different react libraries.-
--👯 I’m looking to collaborate on projects with other eager developers.-
--💬 Ask me about projects, ideas, food, anything!
--⚡ Fun fact: I can use my left and right hand in various scenarios.
+- 🌱 I’m currently learning different react libraries.
+- 👯 I’m looking to collaborate on projects with other eager developers.
+- 💬 Ask me about projects, ideas, food, anything!
+- ⚡ Fun fact: I can use my left and right hand in various scenarios.
 
 
