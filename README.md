@@ -31,7 +31,7 @@ Languages and Tools:
 [<img align="left" alt="Terminal" width="26px" src="./img/terminal-light.svg" />](https://www.youtube.com/playlist?list=PLkwxH9e_vrAJ0WbEsFA9W3I1W-g_BTsbt#gh-light-mode-only)
 [<img align="left" alt="Terminal" width="26px" src="./img/terminal-dark.svg" />](https://www.youtube.com/playlist?list=PLkwxH9e_vrAJ0WbEsFA9W3I1W-g_BTsbt#gh-dark-mode-only)
 
-
+<br/>
 [Languages: HTML, HTML5, CSS, CSS5, Javascript(ES5, ES6), Python, Java] [Databases: Mongo/Mongoose,  MySQL, MSSQL] [Frameworks/Libraries: Flask, JQuery, AJAX, BCrypt, Spring, Spring Data-JPA, Spring Security, Spring MVC, JSP, ReactJS, NodeJs, Express, React Bootstrap, Amazon EC2, Socket.IO ] [Version control Systems: Git, Github] [Tools: Visual Studio Code, Spring Boot, Bootstrap, Node Package Manager, Postman, Balsamiq, MySQLWorkBench] [Others: Servlets, TomCat, Apache, Dependency Injection, Rest API]
 
 
