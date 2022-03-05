@@ -32,16 +32,19 @@ Languages and Tools:
 <img align="left" alt="Git" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" style="padding-right:10px;" />
 <img align="left" alt="GitHub" width="26px" src="https://user-images.githubusercontent.com/3369400/139448065-39a229ba-4b06-434b-bc67-616e2ed80c8f.png" style="padding-right:10px;" />
 
-
-
 <br/>
 <br/>
+
 [Languages: HTML, HTML5, CSS, CSS5, Javascript(ES5, ES6), Python, Java] [Databases: Mongo/Mongoose,  MySQL, MSSQL] [Frameworks/Libraries: Flask, JQuery, AJAX, BCrypt, Spring, Spring Data-JPA, Spring Security, Spring MVC, JSP, ReactJS, NodeJs, Express, React Bootstrap, Amazon EC2, Socket.IO ] [Version control Systems: Git, Github] [Tools: Visual Studio Code, Spring Boot, Bootstrap, Node Package Manager, Postman, Balsamiq, MySQLWorkBench] [Others: Servlets, TomCat, Apache, Dependency Injection, Rest API]
 
 </br>
 </br>
+
 What I am currently working on:
+
 </br>
+</br>
+
 - 🌱 I’m currently learning different react libraries.
 - 👯 I’m looking to collaborate on projects with other eager developers.
 - 💬 Ask me about projects, ideas, food, anything!
