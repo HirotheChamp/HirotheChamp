@@ -1,4 +1,4 @@
-**About Me**
+#**About Me**
 <hr>
 </hr>
 
@@ -39,7 +39,7 @@ Languages and Tools:
 
 
 
-What I am currently working on:
+*What I am currently working on:*
 </br>
 - 🌱 I’m currently learning different react libraries.
 - 👯 I’m looking to collaborate on projects with other eager developers.
