@@ -18,6 +18,8 @@ Now I strive to develop fun, creative and useful websites and web applications. 
 
 👫🏻 I’m always looking to collaborate on projects. I currently have been creating projects in Java and React.
 
+<hr>
+</hr>
 Languages and Tools:
 
 <img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />
