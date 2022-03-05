@@ -52,6 +52,8 @@ Now I strive to develop fun, creative and useful websites and web applications. 
 
 &nbsp;&nbsp;
 [![linkedin](./img/linkedin-light.svg)](https://www.linkedin.com/in/kyle-young-173024106/#gh-light-mode-only)
+
+[![linkedin]<img align="left" alt="GitHub" width="26px" src="https://user-images.githubusercontent.com/3369400/139448065-39a229ba-4b06-434b-bc67-616e2ed80c8f.png" style="padding-right:10px;" />](https://www.linkedin.com/in/kyle-young-173024106/#gh-light-mode-only)
 [![linkedin](./img/linkedin-dark.svg)](https://www.linkedin.com/in/kyle-young-173024106/#gh-dark-mode-only)
 
 [linkedin]: https://www.linkedin.com/in/kyle-young-173024106/
