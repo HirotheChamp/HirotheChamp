@@ -34,6 +34,7 @@ Languages and Tools:
 <br/>
 [Languages: HTML, HTML5, CSS, CSS5, Javascript(ES5, ES6), Python, Java] [Databases: Mongo/Mongoose,  MySQL, MSSQL] [Frameworks/Libraries: Flask, JQuery, AJAX, BCrypt, Spring, Spring Data-JPA, Spring Security, Spring MVC, JSP, ReactJS, NodeJs, Express, React Bootstrap, Amazon EC2, Socket.IO ] [Version control Systems: Git, Github] [Tools: Visual Studio Code, Spring Boot, Bootstrap, Node Package Manager, Postman, Balsamiq, MySQLWorkBench] [Others: Servlets, TomCat, Apache, Dependency Injection, Rest API]
 
+
 What I am currently working on:
 🌱 I’m currently learning different react libraries.
 👯 I’m looking to collaborate on projects with other eager developers.
