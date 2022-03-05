@@ -1,3 +1,7 @@
+#About Me
+
+</hr>
+
 👋 Hi, My name is Kyle Hiroshi Young. I was born in Los Gatos, California and I'm currently living in Campbell, California.
 
 I enjoy trying new food and I love animals 🐶, nature, music and especially dance!
