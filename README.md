@@ -20,6 +20,7 @@ Now I strive to develop fun, creative and useful websites and web applications. 
 
 <hr>
 </hr>
+
 #### Languages and Tools:
 </br>
 </br>
