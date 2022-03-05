@@ -40,10 +40,8 @@ Languages and Tools:
 
 
 What I am currently working on:
-
 </br>
 </br>
-
 - 🌱 I’m currently learning different react libraries.
 - 👯 I’m looking to collaborate on projects with other eager developers.
 - 💬 Ask me about projects, ideas, food, anything!
