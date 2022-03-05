@@ -8,7 +8,7 @@ I joined a coding bootcamp and I spent 4 months learning web development in HTML
 
 Now I strive to develop fun, creative and useful websites and web applications. Feel free to check out my github and let me know if you have any questions.
 
-![anime-keyboard](https://user-images.githubusercontent.com/93508000/156873273-fa7a7397-147c-438f-8df1-e0301678efc5.gif)
+
 
 👫🏻 I’m always looking to collaborate on projects. I currently have been creating projects in Java and React.
 
@@ -26,7 +26,7 @@ Languages and Tools:
 <img align="left" alt="GitHub" width="26px" src="https://user-images.githubusercontent.com/3369400/139448065-39a229ba-4b06-434b-bc67-616e2ed80c8f.png" style="padding-right:10px;" />
 
 
-
+<div class="tenor-gif-embed" data-postid="12003966" data-share-method="host" data-aspect-ratio="2.04" data-width="100%"><a href="https://tenor.com/view/mio-akiyama-computer-anime-typing-type-gif-12003966">Mio Akiyama Computer GIF</a>from <a href="https://tenor.com/search/mio+akiyama-gifs">Mio Akiyama GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
 
 <br/>
 <br/>
