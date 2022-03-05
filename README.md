@@ -26,7 +26,6 @@ Languages and Tools:
 <img align="left" alt="GitHub" width="26px" src="https://user-images.githubusercontent.com/3369400/139448065-39a229ba-4b06-434b-bc67-616e2ed80c8f.png" style="padding-right:10px;" />
 
 
-<div class="tenor-gif-embed" data-postid="12003966" data-share-method="host" data-aspect-ratio="2.04" data-width="100%"><a href="https://tenor.com/view/mio-akiyama-computer-anime-typing-type-gif-12003966">Mio Akiyama Computer GIF</a>from <a href="https://tenor.com/search/mio+akiyama-gifs">Mio Akiyama GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
 
 <br/>
 <br/>
