@@ -50,6 +50,8 @@ Now I strive to develop fun, creative and useful websites and web applications. 
 - ⚡ Fun fact: I have never surfed before.
 
 
+<hr>
+</hr>
 
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=HirotheChamp&theme=radical)
