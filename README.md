@@ -54,6 +54,6 @@ Now I strive to develop fun, creative and useful websites and web applications. 
 </hr>
 
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=HirotheChamp&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=HirotheChamp&theme=cobalt)
 
 [linkedin]: https://www.linkedin.com/in/kyle-young-173024106/
