@@ -49,7 +49,9 @@ Now I strive to develop fun, creative and useful websites and web applications. 
 - 💬 Ask me about projects, ideas, food, anything!
 - ⚡ Fun fact: I have never surfed before.
 
-
+<a href="https://github.com/HirotheChamp/convoychat">
+  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HirotheChamp&layout=compact" />
+</a>
 <hr>
 </hr>
 
