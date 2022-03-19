@@ -57,7 +57,7 @@ Now I strive to develop fun, creative and useful websites and web applications. 
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=HirotheChamp&theme=cobalt" />
 </a>
 <a href="https://github.com/HirotheChamp/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=HirotheChamp&repo=convoychat" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HirotheChamp&layout=compact" />
 </a>
 
 dark                       | light
