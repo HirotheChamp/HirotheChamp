@@ -56,9 +56,9 @@ Now I strive to develop fun, creative and useful websites and web applications. 
 <a href="https://github.com/HirotheChamp/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=HirotheChamp&theme=cobalt&show_icons=true" />
 </a>
-<!-- <a href="https://github.com/HirotheChamp/convoychat">
+<a href="https://github.com/HirotheChamp/convoychat">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HirotheChamp&layout=compact" />
-</a> -->
+</a> 
 
 <!-- dark                       | light
 :-------------------------:|:-------------------------:
