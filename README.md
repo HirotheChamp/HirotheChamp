@@ -16,11 +16,10 @@ Now I strive to develop fun, creative and useful websites and web applications. 
 
 
 
-👫🏻 I’m always looking to collaborate on projects. I currently have been creating projects in Java and React.
+👫🏻 I currently have been creating projects in Java and React. I’m always looking to collaborate on projects so feel free to contact me!
 
-feel free to contact me!
-<br/>
-<br/>
+
+
 [![name](	https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kyle-young-173024106/)
 [![name](	https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/KyleYoungins)
 [![name](	https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/hirothechamp/)
