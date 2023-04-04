@@ -7,7 +7,7 @@ I enjoy trying new food and I love animals 🐶, breakdancing and especially mus
 
 I bounced around many jobs working as a server and bartender, and decided I wanted to change career paths. Ever since learning web development as a child, I decided to further my coding skills by learning full stack development.
 
-I joined a coding bootcamp and spent 4 months learning web development in HTML, CSS, Javascript, Python, Java and MERN.
+I joined a coding bootcamp and spent 4 months learning web development in HTML, CSS, Javascript, Python, Java and the MERN stack.
 
 Now I strive to develop fun, creative and useful websites and web applications. Feel free to check out my github and let me know if you have any questions.
 
