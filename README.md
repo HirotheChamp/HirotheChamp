@@ -16,7 +16,7 @@ Now I strive to develop fun, creative and useful websites and web applications. 
 
 
 
-👫🏻 I currently have been creating projects in Java and React. I’m always looking to collaborate on projects so feel free to contact me!
+👫🏻 I currently have been creating projects in React. I’m always looking to collaborate on projects so feel free to contact me!
 
 
 
